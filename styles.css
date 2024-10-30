@@ -39,3 +39,7 @@ body {
 }
 .welcome-banner p {
 }
+
+.welcome-banner img {
+  padding-top: 2rem;
+}
